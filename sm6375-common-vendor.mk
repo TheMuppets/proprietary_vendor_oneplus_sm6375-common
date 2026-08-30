@@ -931,7 +931,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.dpmaidlservice-V1-ndk \
     vendor.qti.hardware.dpmservice@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
-    vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
+    vendor.qti.hardware.wifidisplaysession_aidl-V2-ndk \
     vendor.qti.imsrtpservice@3.0 \
     vendor.qti.imsrtpservice@3.1 \
     liboplus_service \
@@ -1058,7 +1058,7 @@ PRODUCT_PACKAGES += \
     xtwifi-inet-agent \
     dpmd \
     tcmd \
-    wfdservice \
+    wfdservice64 \
     android.hardware.drm@1.3-service.widevine \
     oplus_sensor_fb
 
